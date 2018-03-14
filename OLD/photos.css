@@ -1,0 +1,23 @@
+#photo-thumb {
+	float: right;
+	height: 150px;
+	width: 150px;
+	clear: right;
+	margin-bottom: 15px;
+	border: 0;
+	overflow: hidden;
+}
+#photo-title {
+	clear: left;
+	float: left;
+	height: 150px;
+	width: 350px;
+	margin-bottom: 15px;
+	font-weight: bold;
+	overflow: hidden;
+}
+.title-class {
+	line-height: 150px;
+	text-align: center;
+	font-size: 16px;
+}

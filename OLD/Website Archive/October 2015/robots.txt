@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /js/
+Disallow: /photoshop/
+Disallow: /JPEG/
+Disallow: /page-not-found.php
+Allow: /

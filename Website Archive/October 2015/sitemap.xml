@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://butlerlabs.chem.ufl.edu/</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://butlerlabs.chem.ufl.edu/index.php</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://butlerlabs.chem.ufl.edu/refer.php</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://butlerlabs.chem.ufl.edu/history.php</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://butlerlabs.chem.ufl.edu/instrument-signup.html</loc>
+  <lastmod>2011-09-30T18:53:01+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://butlerlabs.chem.ufl.edu/resources/Fall%202011%20floor%20duties.pdf</loc>
+  <lastmod>2011-09-30T18:41:02+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://butlerlabs.chem.ufl.edu/photos.php</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://butlerlabs.chem.ufl.edu/butler-lectureship-series.php</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://butlerlabs.chem.ufl.edu/butler-polymer-research-award.php</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://butlerlabs.chem.ufl.edu/administrative-office.php</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://butlerlabs.chem.ufl.edu/resources/Butler-Polymer-Laboratory-Policies-2010.pdf</loc>
+  <lastmod>2011-09-30T18:41:02+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://butlerlabs.chem.ufl.edu/dr-george-butler.php</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://butlerlabs.chem.ufl.edu/contact-us.php</loc>
+  <changefreq>monthly</changefreq>
+</url>
+</urlset>
