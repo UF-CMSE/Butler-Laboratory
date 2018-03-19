@@ -25,6 +25,11 @@
       </center>
     </h1>
     <ul class="nospace listing">
+    <li class="clear">
+          <div class="imgl borderedbox"><img src="images/index/adam-veige.jpg" alt="Dr. Adam Veige"></div>
+          <p class="nospace btmspace-15"><a href="https://veige.chem.ufl.edu" target="_blank">Professor Adam Veige wins JSPS Fellowship</a></p>
+          <p>Congratulations to Adam Veige for winning the Japan Society for the Promotion of Science (JSPS) Fellowship for research in Japan! Dr. Veige, who has also been recently named a UFRF Professor, will travel to Japan and spend 18 days visiting various institutions.</p>
+    </li>
      <li class="clear">
         <div class="imgl borderedbox"><img src="images/index/ian-smith.jpg" alt="Ian Smith"></div>
         <p class="nospace btmspace-15"><a href="https://savin.chem.ufl.edu/" target="_blank">SaRG presents at UF SMARTS Symposium</a></p>

@@ -64,7 +64,11 @@
 <div class="one_half">
   <h2>Latest News &amp; Events</h2>
   <ul class="nospace listing">
-  
+  <li class="clear">
+          <div class="imgl borderedbox"><img src="images/savin.jpg" alt="Dr.Savin"></div>
+          <p class="nospace btmspace-15"><a href="https://savin.chem.ufl.edu" target="_blank">Savin Group Awarded NSF Grant</a></p>
+          <p>Congratulations to the Savin Research Group for being awarded a $339k NSF grant to study energy-absorbing materials. </p>
+    </li>
   <li class="clear">
       <div class="imgl borderedbox"><img src="images/index/ian-smith.jpg" alt="Ian Smith"></div>
       <p class="nospace btmspace-15"><a href="https://savin.chem.ufl.edu/" target="_blank">SaRG presents at UF SMARTS Symposium</a></p>
@@ -75,12 +79,6 @@
       <div class="imgl borderedbox"><img src="images/index/ronald-castellano.jpg" alt="Dr. Castellano"></div>
       <p class="nospace btmspace-15"><a href="http://aa.ufl.edu/awards/uf-internal-awards/#SEC" target="_blank">Professor Castellano receives SEC Faculty Travel grant</a></p>
       <p>Congratulations to Dr. Ron Castellano for receiving the Southeastern Conference (SEC) Travel Grant! Dr. Castellano will be hosted by the University of Kentucky.</p>
-    </li>
-  
-  	<li class="clear">
-          <div class="imgl borderedbox"><img src="images/index/adam-veige.jpg" alt="Dr. Adam Veige"></div>
-          <p class="nospace btmspace-15"><a href="https://veige.chem.ufl.edu" target="_blank">Professor Adam Veige wins JSPS Fellowship</a></p>
-          <p>Congratulations to Adam Veige for winning the Japan Society for the Promotion of Science (JSPS) Fellowship for research in Japan! Dr. Veige, who has also been recently named a UFRF Professor, will travel to Japan and spend 18 days visiting various institutions.</p>
     </li>
      
   </ul>
