@@ -26,6 +26,11 @@
     </h1>
     <ul class="nospace listing">
     <li class="clear">
+      <div class="imgl borderedbox"><img src="images/index/ken-wagener.jpg" alt="Dr. Wagener"></div>
+      <p class="nospace btmspace-15"><a href="http://wagener.chem.ufl.edu/" target="_blank">Dr. Wagener recognized for outstanding contributions to polymer science</a></p>
+      <p>Congratulations to Dr. Wagener for receiving the <a href="http://www.clas.ufl.edu/" target="_blank">2018 CLAS Faculty Achievement Award</a> and <a href="http://chemistry.case.edu/" target="_blank">2019 Tosoh Lifetime Achievement Award</a> for his contributions in the field!</p>
+    </li>
+    <li class="clear">
           <div class="imgl borderedbox"><img src="images/index/adam-veige.jpg" alt="Dr. Adam Veige"></div>
           <p class="nospace btmspace-15"><a href="https://veige.chem.ufl.edu" target="_blank">Professor Adam Veige wins JSPS Fellowship</a></p>
           <p>Congratulations to Adam Veige for winning the Japan Society for the Promotion of Science (JSPS) Fellowship for research in Japan! Dr. Veige, who has also been recently named a UFRF Professor, will travel to Japan and spend 18 days visiting various institutions.</p>

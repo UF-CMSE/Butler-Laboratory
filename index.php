@@ -65,6 +65,11 @@
   <h2>Latest News &amp; Events</h2>
   <ul class="nospace listing">
   <li class="clear">
+      <div class="imgl borderedbox"><img src="images/index/ken-wagener.jpg" alt="Dr. Wagener"></div>
+      <p class="nospace btmspace-15"><a href="http://wagener.chem.ufl.edu/" target="_blank">Dr. Wagener recognized for outstanding contributions to polymer science</a></p>
+      <p>Congratulations to Dr. Wagener for receiving the <a href="http://www.clas.ufl.edu/" target="_blank">2018 CLAS Faculty Achievement Award</a> and <a href="http://chemistry.case.edu/" target="_blank">2019 Tosoh Lifetime Achievement Award</a> for his contributions in the field!</p>
+    </li>
+  <li class="clear">
           <div class="imgl borderedbox"><img src="images/savin.jpg" alt="Dr.Savin"></div>
           <p class="nospace btmspace-15"><a href="https://savin.chem.ufl.edu" target="_blank">Savin Group Awarded NSF Grant</a></p>
           <p>Congratulations to the Savin Research Group for being awarded a $339k NSF grant to study energy-absorbing materials. </p>
@@ -74,13 +79,6 @@
       <p class="nospace btmspace-15"><a href="https://savin.chem.ufl.edu/" target="_blank">SaRG presents at UF SMARTS Symposium</a></p>
       <p>The Savin Research Group presented four posters and two talks at the UF SMARTS symposium. Congratulations to Ian Smith for getting Second Prize for Best Talk!</p>
     </li>
-  
-  <li class="clear">
-      <div class="imgl borderedbox"><img src="images/index/ronald-castellano.jpg" alt="Dr. Castellano"></div>
-      <p class="nospace btmspace-15"><a href="http://aa.ufl.edu/awards/uf-internal-awards/#SEC" target="_blank">Professor Castellano receives SEC Faculty Travel grant</a></p>
-      <p>Congratulations to Dr. Ron Castellano for receiving the Southeastern Conference (SEC) Travel Grant! Dr. Castellano will be hosted by the University of Kentucky.</p>
-    </li>
-     
   </ul>
   <p class="right"><a href="news.php">Click here to view all of the latest news and events &raquo;</a></p>
 </div>
