@@ -18,18 +18,18 @@
 <div class="wrapper">
   <div id="slider">
     
-    <div id="slide-wrapper" class="rounded clear">
+   <!-- <div id="slide-wrapper" class="rounded clear">
       <figure id="slide-1"><a class="view" href="butler-lectureship-series.php" target="_blank"><img src="images/index/Bates-Header.jpg" target="_blank" alt="2018 Butler Lectureship Series Schedule"></a>
-    </div>
+    </div>-->
     
-    <!-- Group Photo 
+    <!-- Group Photo -->
     <div id="slide-wrapper" class="rounded clear">
       <figure id="slide-1"><a class="view" href="images/index/group_fa17.jpg" target="_blank"><img src="images/index/group_fa17.jpg" target="_blank" alt="Butler Polymer Research Lab Group Photo as of February 2014"></a>
         <figcaption>
           <p><font color="#030367">The George & Josephine Butler Polymer Research Laboratory in the Department of Chemistry at the University of Florida has more than one hundred members and is comprised of the Castellano, Colina, Fanucci, Miller, Savin, Sumerlin, Veige, and Wagener research groups. As part of the Polymer Program, the Butler Polymer Research Laboratory is an integrated and collaborative laboratory setting in which members of the Castellano, Colina, Miller, Savin, Sumerlin, and Wagener groups conduct research in shared facilities on a widely diverse set of topics that encompass all elements of polymer science.</font></p>
         </figcaption>
       </figure>
-    </div> -->
+    </div> 
     
     <!-- BUTLER FEATURE 
     <div id="slide-wrapper" class="rounded clear">
