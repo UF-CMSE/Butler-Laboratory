@@ -65,7 +65,7 @@
         <li><a class="drop">Laboratory Resources</a>
           <ul>
 			 <!-- <li><a href="#" target="_blank">Instrument Sign-Up</a></li> -->
-			 <li><a href="../resources/F17_floor_duties.pdf" target="_blank">Laboratory Duties</a></li>
+			 <li><a href="../resources/S18_floor_duties.pdf" target="_blank">Laboratory Duties</a></li>
              <li><a href="https://mail.ufl.edu/owa/calendar/f.farley@ufl.edu/Room_328/calendar.html" target="_blank">Polymer Conference Room (Leigh 328) Reservation Calendar</a></li>
              <!--<li><a href="../documents/Travel_Reimbursement_Form.pdf" target="_blank">Travel Authorization Form</a></li>
              <li><a href="../documents/Polymer_OrderForm.xls" target="_blank">Polymer Order Form</a></li>-->
