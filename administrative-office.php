@@ -35,7 +35,7 @@
        </p>
       
        <p>At present the administrative staff is comprised of Office Manager, <strong>Frank Farley</strong>, Fiscal Assistant, <strong>Megan Baucom</strong>, and 
-                Student Assistant,&nbsp; <strong>Brandon Goldman</strong>. Their efforts continue in the 
+                Student Assistant,&nbsp; <strong>Kathleen Syron</strong>. Their efforts continue in the 
                 family tradition that has been established by Lorraine Williams, Sara Klossner, Drew Henderson, and 
                 others who have preceded them. </p>
       </p>
